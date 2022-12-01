@@ -4,6 +4,8 @@
 <%@ page import="Model.JB_Departamento"%>
 <%@ page import="java.util.ArrayList"%>
 <%
+
+
 ArrayList<JB_Departamento> lista = (ArrayList<JB_Departamento>) request.getAttribute("departamento");
 //System.out.println( request.getAttribute("Departamento"));
 %>

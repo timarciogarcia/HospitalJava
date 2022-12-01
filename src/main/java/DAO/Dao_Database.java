@@ -17,7 +17,7 @@ public class Dao_Database {
 	private String user = "root";
 	
 	/** The password. */
-	private String password = "Pepo@1969";
+	private String password = "Pepo1969";
 
 	/**
 	 * Conectar.
